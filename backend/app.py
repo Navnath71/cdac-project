@@ -4,8 +4,9 @@ from mysql.connector import Error
 from flask_cors import CORS
 import os
 
+
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["http://localhost"], supports_credentials=True)
 app.secret_key = 'dittis@sunbeam'
 
 db_config = {
