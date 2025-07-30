@@ -1,3 +1,3 @@
-#Zero Trust-Based Secure Software Deployment in Hybrid Cloud with Real-Time Database Replication and Integrated Disaster Recovery Mechanisms
+**Zero Trust-Based Secure Software Deployment in Hybrid Cloud with Real-Time Database Replication and Integrated Disaster Recovery Mechanisms**
 
 Zero Trust-Based Secure Software Deployment in Hybrid Cloud is a resilient DevSecOps solution enabling secure, automated service deployment across hybrid infrastructure (on-prem + AWS). It uses Docker Swarm, Jenkins, and real-time MySQL replication for high availability.The system enforces Zero Trust via OpenVPN, with Wazuh for threat detection. Cron-based backups support disaster recovery, while Nagios and Syslog enable centralized monitoring. A Flask dashboard provides real-time visibility of all services.Tech Stack:Hybrid Cloud (On-prem + AWS), Docker, Jenkins, MySQL, Python, Flask, Wazuh, Nagios, OpenVPN, Syslog, Cron
