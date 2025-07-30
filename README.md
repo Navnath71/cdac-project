@@ -1,2 +1,2 @@
 # cdac-project
-cdac-project for ci-cd
+Zero Trust-Based Secure Software Deployment in Hybrid Cloud with Real-Time Database Replication and Integrated Disaster Recovery Mechanisms
