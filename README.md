@@ -1,3 +1,40 @@
-**Zero Trust-Based Secure Software Deployment in Hybrid Cloud with Real-Time Database Replication and Integrated Disaster Recovery Mechanisms**
+# Zero Trust-Based Secure Software Deployment in Hybrid Cloud
 
-Zero Trust-Based Secure Software Deployment in Hybrid Cloud is a resilient DevSecOps solution enabling secure, automated service deployment across hybrid infrastructure (on-prem + AWS). It uses Docker Swarm, Jenkins, and real-time MySQL replication for high availability.The system enforces Zero Trust via OpenVPN, with Wazuh for threat detection. Cron-based backups support disaster recovery, while Nagios and Syslog enable centralized monitoring. A Flask dashboard provides real-time visibility of all services.Tech Stack:Hybrid Cloud (On-prem + AWS), Docker, Jenkins, MySQL, Python, Flask, Wazuh, Nagios, OpenVPN, Syslog, Cron
+This project implements a secure, resilient DevSecOps solution that automates software deployment across a hybrid cloud environment (On-Premises + AWS). It includes real-time MySQL database replication, Zero Trust security enforcement, disaster recovery mechanisms, and centralized monitoring.
+
+## 🔧 Features
+
+* Hybrid Cloud Deployment (On-Prem + AWS)
+* Docker Swarm for container orchestration
+* Jenkins for CI/CD
+* Real-time MySQL replication
+* Zero Trust security with OpenVPN
+* Threat detection using Wazuh
+* Cron-based backup and recovery
+* Centralized monitoring with Nagios and Syslog
+* Flask-based dashboard for real-time service visibility
+
+## 💠 Tech Stack
+
+* **Cloud**: On-Prem + AWS
+* **CI/CD**: Jenkins
+* **Containers**: Docker, Docker Swarm
+* **Database**: MySQL
+* **Monitoring**: Nagios, Syslog
+* **Security**: OpenVPN, Wazuh
+* **Dashboard**: Flask (Python)
+* **Backup**: Cron jobs
+
+## 📁 Repository
+
+GitHub: [https://github.com/Navnath71/cdac-project.git](https://github.com/Navnath71/cdac-project.git)
+
+## 📄 Project Duration
+
+* **1 Month** (PG Diploma Project)
+
+## 📌 Description
+
+This project integrates secure deployment pipelines with Zero Trust access, real-time database syncing, and disaster recovery — providing a robust foundation for enterprise-grade DevSecOps workflows in hybrid environments.
+
+---
