@@ -25,9 +25,6 @@ This project implements a secure, resilient DevSecOps solution that automates so
 * **Dashboard**: Flask (Python)
 * **Backup**: Cron jobs
 
-## 📁 Repository
-
-GitHub: [https://github.com/Navnath71/cdac-project.git](https://github.com/Navnath71/cdac-project.git)
 
 ## 📄 Project Duration
 
